@@ -191,14 +191,3 @@ Proprietary — © WavuMall. All rights reserved.
 
 - **WavuMall Backend** – Node.js / TypeScript / PostgreSQL API
 - **WavuMall Vendor App** – Flutter app for vendors and employees
-
----
-
-If you'd like, I can also add:
-
-- A **screenshots section** (once you have captures).
-- A **CHANGELOG.md** with the current version and feature list.
-- A **CONTRIBUTING.md** with coding standards and PR checklist.
-- A short **architecture.md** explaining the sync engine and RTC in more depth.
-
-Just say the word.
